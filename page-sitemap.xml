@@ -2,7 +2,10 @@
 <urlset xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:image="http://www.google.com/schemas/sitemap-image/1.1" xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9 http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd http://www.google.com/schemas/sitemap-image/1.1 http://www.google.com/schemas/sitemap-image/1.1/sitemap-image.xsd" xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
 	<url>
 		<loc>/</loc>
-		<lastmod>2025-02-05T21:51:47+00:00</lastmod>
+		<lastmod>2025-02-06T18:16:38+00:00</lastmod>
+		<image:image>
+			<image:loc>/wp-content/uploads/2025/02/authorized-dealer.jpeg</image:loc>
+		</image:image>
 		<image:image>
 			<image:loc>/wp-content/uploads/2024/11/40-ft-container-1-1024x580.webp</image:loc>
 		</image:image>
@@ -20,84 +23,84 @@
 		</image:image>
 	</url>
 	<url>
-		<loc>/ames/</loc>
-		<lastmod>2025-02-06T03:12:16+00:00</lastmod>
-	</url>
-	<url>
 		<loc>/west-des-moines/</loc>
-		<lastmod>2025-02-06T03:12:16+00:00</lastmod>
-	</url>
-	<url>
-		<loc>/waterloo/</loc>
-		<lastmod>2025-02-06T03:12:15+00:00</lastmod>
+		<lastmod>2025-02-07T01:39:55+00:00</lastmod>
 	</url>
 	<url>
 		<loc>/iowa-city/</loc>
-		<lastmod>2025-02-06T03:12:15+00:00</lastmod>
+		<lastmod>2025-02-07T01:39:54+00:00</lastmod>
 	</url>
 	<url>
 		<loc>/council-bluffs/</loc>
-		<lastmod>2025-02-06T03:12:15+00:00</lastmod>
+		<lastmod>2025-02-07T01:39:54+00:00</lastmod>
 	</url>
 	<url>
-		<loc>/davenport/</loc>
-		<lastmod>2025-02-06T03:12:14+00:00</lastmod>
+		<loc>/ames/</loc>
+		<lastmod>2025-02-07T01:39:54+00:00</lastmod>
 	</url>
 	<url>
 		<loc>/sioux-city/</loc>
-		<lastmod>2025-02-06T03:12:14+00:00</lastmod>
+		<lastmod>2025-02-07T01:39:53+00:00</lastmod>
 	</url>
 	<url>
-		<loc>/ottumwa/</loc>
-		<lastmod>2025-02-06T03:12:13+00:00</lastmod>
+		<loc>/waterloo/</loc>
+		<lastmod>2025-02-07T01:39:53+00:00</lastmod>
+	</url>
+	<url>
+		<loc>/davenport/</loc>
+		<lastmod>2025-02-07T01:39:52+00:00</lastmod>
 	</url>
 	<url>
 		<loc>/burlington/</loc>
-		<lastmod>2025-02-06T03:12:13+00:00</lastmod>
+		<lastmod>2025-02-07T01:39:52+00:00</lastmod>
 	</url>
 	<url>
 		<loc>/cedar-rapids/</loc>
-		<lastmod>2025-02-06T03:12:13+00:00</lastmod>
+		<lastmod>2025-02-07T01:39:52+00:00</lastmod>
 	</url>
 	<url>
-		<loc>/newton/</loc>
-		<lastmod>2025-02-06T03:12:12+00:00</lastmod>
+		<loc>/ottumwa/</loc>
+		<lastmod>2025-02-07T01:39:51+00:00</lastmod>
 	</url>
 	<url>
 		<loc>/fort-dodge/</loc>
-		<lastmod>2025-02-06T03:12:12+00:00</lastmod>
-	</url>
-	<url>
-		<loc>/bettendorf/</loc>
-		<lastmod>2025-02-06T03:12:11+00:00</lastmod>
+		<lastmod>2025-02-07T01:39:51+00:00</lastmod>
 	</url>
 	<url>
 		<loc>/mason-city/</loc>
-		<lastmod>2025-02-06T03:12:11+00:00</lastmod>
+		<lastmod>2025-02-07T01:39:50+00:00</lastmod>
 	</url>
 	<url>
 		<loc>/clinton/</loc>
-		<lastmod>2025-02-06T03:12:11+00:00</lastmod>
+		<lastmod>2025-02-07T01:39:50+00:00</lastmod>
 	</url>
 	<url>
-		<loc>/ankeny/</loc>
-		<lastmod>2025-02-06T03:12:10+00:00</lastmod>
+		<loc>/newton/</loc>
+		<lastmod>2025-02-07T01:39:50+00:00</lastmod>
 	</url>
 	<url>
 		<loc>/urbandale/</loc>
-		<lastmod>2025-02-06T03:12:10+00:00</lastmod>
+		<lastmod>2025-02-07T01:39:49+00:00</lastmod>
 	</url>
 	<url>
 		<loc>/marion/</loc>
-		<lastmod>2025-02-06T03:12:10+00:00</lastmod>
+		<lastmod>2025-02-07T01:39:49+00:00</lastmod>
+	</url>
+	<url>
+		<loc>/bettendorf/</loc>
+		<lastmod>2025-02-07T01:39:49+00:00</lastmod>
 	</url>
 	<url>
 		<loc>/cedar-falls/</loc>
-		<lastmod>2025-02-06T03:12:09+00:00</lastmod>
+		<lastmod>2025-02-07T01:39:48+00:00</lastmod>
+	</url>
+	<url>
+		<loc>/ankeny/</loc>
+		<lastmod>2025-02-07T01:39:48+00:00</lastmod>
 	</url>
 	<url>
 		<loc>/des-moines/</loc>
-		<lastmod>2025-02-06T03:12:09+00:00</lastmod>
+		<lastmod>2025-02-07T01:39:47+00:00</lastmod>
 	</url>
 	<url>
 		<loc>/rentals/</loc>
